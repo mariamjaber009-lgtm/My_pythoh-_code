@@ -1,0 +1,7 @@
+print("hello coffee")
+Drink = input (" Enter your Drink : coffee, tae:")
+if Drink =="coffee" :
+   print(" The price of coffee is 10 dollars ")
+if Drink =="tea"
+   print("The price of tea is 5 dollars")
+print("|-----------------------|")
